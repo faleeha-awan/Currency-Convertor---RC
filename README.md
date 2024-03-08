@@ -1,7 +1,6 @@
 This is a Currency Convertor code that converts multiple currencies to US Dollars.
-The logic has been designed using two text-based files located in Drive 'D', in a folder named 'RC'. One file(Currency.txt) contains the Currency names that can be converted and the other file (Currency_Convertor) contains the exchange rates of the currencies and their symbols. 
-For running the code succesfully, it needs to be able to access the files, so the location must be the same as I explained (Drive 'D', Folder 'RC', two text based files 'Currency.txt' and 'Currency_Convertor.txt')
+It uses file(Currency.txt) containing the Currency names that can be converted and the other file (Currency_Convertor.txt) contains the exchange rates of the currencies and their symbols. 
 Steps:
-1. Make a folder named 'RC' in Drive 'D' your PC.
-2. Save the attached files'Currency.txt' and 'Currency_Convertor.txt' in that folder with the names (Currency.txt) and (Currency_Convertor.txt).
+1. To run the code successfully, replace my file path to Currency.txt with your local path in lines 9, 15 of Program.vb.
+2. Finally, replace my path to Currency_Convert.txt with your local path in line 35 of Program.vb. now you should be good to go.
 3. Run the code and follow the Commands to get the desired result.
