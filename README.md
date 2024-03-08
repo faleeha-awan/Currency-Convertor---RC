@@ -3,5 +3,5 @@ The logic has been designed using two text-based files located in Drive 'D', in 
 For running the code succesfully, it needs to be able to access the files, so the location must be the same as I explained (Drive 'D', Folder 'RC', two text based files 'Currency.txt' and 'Currency_Convertor.txt')
 Steps:
 1. Make a folder named 'RC' in Drive 'D' your PC.
-2. Save the attached files in that folder with the names (Currency.txt) and (Currency_Convertor.txt).
+2. Save the attached files'Currency.txt' and 'Currency_Convertor.txt' in that folder with the names (Currency.txt) and (Currency_Convertor.txt).
 3. Run the code and follow the Commands to get the desired result.
