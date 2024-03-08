@@ -1,0 +1,42 @@
+1.Euro(€)
+2.Canadian Dollars(C$)
+3.Omani Rial(OMR)
+4.Japanes Yen
+5.Hong Kong Dollar
+6.Bahraini Dinar
+7.Jordanian Dinar
+8.Azzerbaijani Manat
+9.Indian Rupee
+10.Swiss Franc
+11.Australian Dollar
+12.Kuwait Dinar
+13.NewZealand Dollar
+14.Brunei Dollar
+15.Bulgarian Lev
+16.Afghan Afghani
+17.Albarian Lek
+18.Algerian Dinar
+19.Bangladeshi Taka
+20.Brazillian Real
+21.Chilean Pesco
+22.Chinese Yuan
+23.Colombian Pesco
+24.Costa Rican Colón 
+25.Egyptian Pound
+26.Indonasian Rupiah
+27.Iranian Rial
+28.Iraqi Dinar
+29.South Korea
+30.Malaysian Ringit
+31.Nepalese Rupee
+32.Pakistani Rupee
+33.Norwegian Krone
+34.Qatari Rial
+35.Russian Rubble
+36.Saudi Riyal
+37.Singapore Dollar
+38.Srilankan Rupee
+39.Thari Baht
+40.Turkish Lira
+41.UAE Dirham
+42.Pound Sterling
